@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+# SPDX-FileCopyrightText: 2022 Frank Hunleth
+#
+# SPDX-License-Identifier: MIT
+
 #
 # Test whether the mount option works. We can't easily test
 # that the mount works, so just make sure that it gets close.

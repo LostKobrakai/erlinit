@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+# SPDX-FileCopyrightText: 2022 Frank Hunleth
+#
+# SPDX-License-Identifier: MIT
+
 #
 # Check that the automatically picked boot script prefers
 # the release named script.

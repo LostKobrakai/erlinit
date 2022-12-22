@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+# SPDX-FileCopyrightText: 2022 Frank Hunleth
+#
+# SPDX-License-Identifier: MIT
+
 #
 # Test that when the kernel is printing output on multiple ttys that warnings
 # are displayed on the ones that aren't going to show the prompt.

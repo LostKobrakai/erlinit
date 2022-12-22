@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+# SPDX-FileCopyrightText: 2022 Frank Hunleth
+#
+# SPDX-License-Identifier: MIT
+
 echo "erlexec is sending signal to reboot" 1>&2
 
 # erlinit is the grandparent of this process
