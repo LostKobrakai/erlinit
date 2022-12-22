@@ -403,3 +403,15 @@ regression tests. These tests should run fine on both OSX and Linux even though
 `erlinit` is intended to be run on a minimal embedded Linux system. See
 `test/fixture` for the shared library that's used to simulate `erlinit` being
 run as Linux's init process (pid 1).
+
+## License
+
+This work is licensed under multiple licenses. Individual files are labelled
+following the [REUSE recommendations](https://reuse.software).
+
+For following summarizes the licensing:
+
+* All production source code is licensed under MIT.
+* Some test code copied from other projects is licensed under non-MIT licenses.
+  See files.
+* Configuration and data files are licensed under CC0-1.0.
